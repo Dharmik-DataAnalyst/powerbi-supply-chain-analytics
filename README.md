@@ -10,6 +10,15 @@ The report helps businesses monitor operational KPIs and identify areas for opti
 
 ---
 
+# Supply Chain Analytics Dashboard
+
+![Dashboard Banner](Screenshot/dashboard-banner.png)
+
+## Project Overview
+This project analyzes supply chain operations using Power BI...
+
+---
+
 ## Tools & Technologies Used
 
 - Power BI
