@@ -50,19 +50,19 @@ The report helps businesses monitor operational KPIs and identify areas for opti
 
 ### Dashboard Overview
 
-![Dashboard Page 1](screenshots/dashboard-page1.png)
+![Dashboard Page 1](Screenshot/dashboard-page1.png)
 
 ### Supplier & Product Analysis
 
-![Dashboard Page 2](screenshots/dashboard-page2.png)
+![Dashboard Page 2](Screenshot/dashboard-page2.png)
 
 ### Logistics & Transportation Analysis
 
-![Dashboard Page 3](screenshots/dashboard-page3.png)
+![Dashboard Page 3](Screenshot/dashboard-page3.png)
 
 ### Production & Manufacturing Analysis
 
-![Dashboard Page 4](screenshots/dashboard-page4.png)
+![Dashboard Page 4](Screenshot/dashboard-page4.png)
 
 ---
 
