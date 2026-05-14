@@ -97,8 +97,7 @@ This project analyzes supply chain operations using Power BI...
 
 ## Project Objective
 
-The objective of this project is to analyze supply chain operations and p
-er efficiency, and logistics performance.
+The objective of this project is to analyze supply chain operations and per efficiency, and logistics performance.
 
 ---
 
